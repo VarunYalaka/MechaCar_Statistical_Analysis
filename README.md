@@ -49,7 +49,7 @@ MechaCar is suffering from production troubles that are blocking the manufacturi
 ![Screenshot 2023-01-02 at 1 39 16 AM](https://user-images.githubusercontent.com/44387918/210215019-5c95fa9a-85e6-4add-8c53-7118311504a2.png)
 
 ## Study design: MechaCar vs Competition
-Lower cost for higher fuel economy as a coefficient, slope relationships.   
+Lower cost for higher fuel economy as a coefficient and slope relationships.   
 if economy and horsepower are not statistically different we can use that to help to prove wrong(the null hypothesis is mostly true and the cars are roughly the same or no different)
 Fuel economy and horsepower are the two important factors to consider in consumer point of view. 
 
