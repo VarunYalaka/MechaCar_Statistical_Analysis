@@ -52,5 +52,6 @@ MechaCar is suffering from production troubles that are blocking the manufacturi
 Lower cost for higher fuel economy as a coefficient and slope relationships.   
 if economy and horsepower are not statistically different we can use that to help to prove wrong(the null hypothesis is mostly true and the cars are roughly the same or no different)
 Fuel economy and horsepower are the two important factors to consider in consumer point of view. 
+Using pierson correlation coefficients we can compare this for the relationship between the cost vs fuel efficiency and compare that to the competition cost vs fuel efficiency. In addition to the pierson coefficient we will want to know what the slope relationship is. As stated above a lower cost for a higher fuel efficiency and having a higher pearson correlation would help to validate this.Using sample T-test results, results are statistically significant then we use this information to support claims. 
 
 
